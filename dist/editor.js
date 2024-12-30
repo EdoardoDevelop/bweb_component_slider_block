@@ -1347,7 +1347,7 @@
                   [ 'core/heading', { placeholder: 'Enter title...',fontSize: 'large','textColor': 'white' } ],
                   [ 'core/paragraph', { placeholder: 'Enter side content...', 'textColor': 'white' } ]
                 ],
-                allowedBlocks: ['core/paragraph','core/heading','core/button'],
+                allowedBlocks: ['core/paragraph','core/heading','core/button','core/spacer'],
                 orientation: "vertical"
                 
               })):null:null,
